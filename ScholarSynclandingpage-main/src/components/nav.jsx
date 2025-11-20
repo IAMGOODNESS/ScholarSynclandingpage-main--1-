@@ -64,7 +64,7 @@ Serving 100,000+ students <br /> globally with 99.9% uptime reliability. but</p>
 </ul>
       </div>
       <div className="img">
-        <img id="before-pricing" src="/students-discussing-intently-stockcake.jpg" alt="" width={280}  height={28} />
+        <img id="before-pricing" src="/students-discussing-intently-stockcake.jpg" alt="" width={280}  height={280} />
       </div>
      </div>
   <div className="pricing">
