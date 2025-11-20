@@ -14,9 +14,7 @@ function Nav() {
              <li><a href="#">Pricing</a></li>
               <li><a href="#">Support</a></li>
         </ul>
-          <button id="get-started-nav">
-     Get Started
-      </button>
+      
         </div>
     
      </nav>
@@ -66,7 +64,7 @@ Serving 100,000+ students <br /> globally with 99.9% uptime reliability. but</p>
 </ul>
       </div>
       <div className="img">
-        <img id="before-pricing" src="/students-discussing-intently-stockcake.jpg" alt=""  height={350} />
+        <img id="before-pricing" src="/students-discussing-intently-stockcake.jpg" alt="" width={350}  height={350} />
       </div>
      </div>
   <div className="pricing">
