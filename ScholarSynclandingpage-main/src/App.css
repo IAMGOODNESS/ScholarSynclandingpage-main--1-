@@ -375,7 +375,7 @@
 @media (max-width: 768px) {
     #CTA h1 {
         font-size: 2rem;
-        margin-bottom: 4rem;
+        margin-bottom: 6rem;
     }
     #get-started-cta,
     #get-started-nav,
@@ -395,8 +395,8 @@
 
 @media (max-width: 480px) {
     #CTA h1 {
-        font-size: 1.5rem;
-        margin-bottom: 3rem;
+        font-size: 1.2rem;
+        margin-bottom: 6rem;
     }
     .about-img {
         height: 200px;
